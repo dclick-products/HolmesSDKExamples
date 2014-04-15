@@ -3,4 +3,12 @@
   <groupId>br.com.dclick.holmes.sdk</groupId>
   <artifactId>examples</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>br.com.dclick.holmes</groupId>
+  		<artifactId>holmes-client-sdk</artifactId>
+  		<version>1.8-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
